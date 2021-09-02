@@ -1,0 +1,64 @@
+{
+    "intro":{
+            "name": "Soham Sarkar",
+            "college": "RCC Institute of Information Technology, Beliaghata",
+            "school": "Nava Nalanda High School, Kolkata",
+            "occupation": "student"
+    },
+    "links": [
+        {
+            "profile": "https://github.com/errorinc0de",
+            "icon_default": "https://raw.githubusercontent.com/edent/SuperTinyIcons/8e583e7ef9b3eb18787975676ed61fadee086578/images/svg/github.svg",
+            "icon_white": ""
+        },
+        {
+            "profile": "https://www.codechef.com/users/soh_",
+            "icon_default": "https://raw.githubusercontent.com/soham-sarkar/Coding-Questions/1bc603e1af386033d56fbaf0e1434b21c4a50687/codechef.svg",
+            "icon_white": ""
+        },
+        {
+            "profile": "https://www.hackerrank.com/errorinc0de",
+            "icon_default": "https://raw.githubusercontent.com/soham-sarkar/Coding-Questions/4f909e8304aabcbd9b28bc4fcb7eea463709695f/hackerrank.svg",
+            "icon_white": ""
+        },
+        {
+            "profile": "https://www.qwiklabs.com/public_profiles/ba398002-51e8-45af-89d4-6919df05398d",
+            "icon_default": "https://raw.githubusercontent.com/soham-sarkar/Coding-Questions/0d1875dd8f5e19f572d95f1736ef41159eee58e6/qwiklabs.svg",
+            "icon_white": ""
+        },
+        {
+            "profile": "https://www.linkedin.com/in/errorinc0de/",
+            "icon_default": "https://raw.githubusercontent.com/edent/SuperTinyIcons/8e583e7ef9b3eb18787975676ed61fadee086578/images/svg/linkedin.svg",
+            "icon_white": ""
+        },
+        {
+            "profile": "https://www.instagram.com/errorinc0de/",
+            "icon_default": "https://raw.githubusercontent.com/edent/SuperTinyIcons/8e583e7ef9b3eb18787975676ed61fadee086578/images/svg/instagram.svg",
+            "icon_white": ""
+        },
+        {
+            "profile": "https://www.facebook.com/errorinc0de/",
+            "icon_default": "https://raw.githubusercontent.com/edent/SuperTinyIcons/8e583e7ef9b3eb18787975676ed61fadee086578/images/svg/facebook.svg",
+            "icon_white": ""
+        },
+        {
+            "profile": "https://twitter.com/errorinc0de",
+            "icon_default": "https://raw.githubusercontent.com/edent/SuperTinyIcons/8e583e7ef9b3eb18787975676ed61fadee086578/images/svg/twitter.svg",
+            "icon_white": ""
+        },
+        {
+            "profile": "https://medium.com/@sohamsarkarv1.0",
+            "icon_default": "https://raw.githubusercontent.com/edent/SuperTinyIcons/8e583e7ef9b3eb18787975676ed61fadee086578/images/svg/medium.svg",
+            "icon_white": ""
+        },
+        
+        {
+            "profile": "https://stackoverflow.com/users/14325756/soh",
+            "icon_default": "https://raw.githubusercontent.com/edent/SuperTinyIcons/8e583e7ef9b3eb18787975676ed61fadee086578/images/svg/stackoverflow.svg",
+            "icon_white": ""
+        }
+    ],
+    "bio": {
+        "description": "Hey, I'm Soham Sarkar, a Sophomore from RCC Institute of Information Technology pursuing B.Tech in Computer Science"
+    }
+}

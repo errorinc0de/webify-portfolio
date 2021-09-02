@@ -1,0 +1,43 @@
+.icoSocial{
+  height: 5vh;
+  width: 5vh;
+  margin: .95vh;
+  padding: 0.5vh;
+  border: 2px;
+  border-style: hidden;
+  border-radius: .5vh;
+}
+
+.icoSocial:hover{
+  background-color: rgb(184, 176, 240);
+}
+
+.socialLinksLeft{
+  float: left;
+  flex-direction: column;
+  display: flex;
+  border: 2px solid transparent;
+  border-top-right-radius: 3vh;
+  border-bottom-right-radius: 3vh;
+  background-color: rgba(184, 176, 240, 0.500);
+  margin-right: 0.25vh;
+}
+
+.socialLinksRight{
+  flex-direction: column;
+  float: right;
+  display: flex;
+  border: 2px solid transparent;
+  border-top-left-radius: 3vh;
+  border-bottom-left-radius: 3vh;
+  background-color: rgba(185, 176, 240, 0.500);
+  margin-left: 0.25vh;
+}
+
+.socialLinksContainer{
+  position: fixed;
+  width: 99%;
+  top: auto;
+  bottom: 10vh;
+  z-index: 9998;
+}
