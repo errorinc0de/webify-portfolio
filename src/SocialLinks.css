@@ -36,7 +36,7 @@
 
 .socialLinksContainer{
   position: fixed;
-  width: 99%;
+  width: 100%;
   top: auto;
   bottom: 10vh;
   z-index: 9998;
